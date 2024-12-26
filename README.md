@@ -8,6 +8,9 @@ A graphical user interface for the [Win11Debloat](https://github.com/Raphire/Win
 - Tooltips explaining each option
 - Administrator privileges handled automatically
 
+## Screenshot
+![alt text](http://images.beingmanan.com.s3.amazonaws.com/win11-deb.png "Screenshot")
+
 ## Download
 Download the latest release from the [Releases](../../releases) page.
 
