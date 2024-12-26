@@ -1,6 +1,3 @@
-# Win11DebloatGUI
-GUI for https://github.com/Raphire/Win11Debloat
-
 # Win11 Debloat GUI
 
 A graphical user interface for the [Win11Debloat](https://github.com/Raphire/Win11Debloat) script.
