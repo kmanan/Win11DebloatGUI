@@ -1,4 +1,4 @@
-# Win11 Debloat GUI
+# Win11 Debloat GUI: Made comlletely with Cursor AI
 
 A graphical user interface for the [Win11Debloat](https://github.com/Raphire/Win11Debloat) script.
 
